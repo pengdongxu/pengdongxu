@@ -1,32 +1,29 @@
-# 👋 Hi，我是彭东旭
+👋 Hi, I'm Peng Dongxu (@pengdongxu) - a **Java Architect specializing in mission-critical Internet Hospital platforms**. Based in Wuhan, China, I'm at the forefront of merging robust backend engineering with the transformative power of AI in healthcare.
 
-🏥 一名专注于互联网医院系统的 Java 技术负责人，目前就职于武汉，深耕医疗信息化与智能化场景。  
-🎯 擅长构建高可用后端服务架构，推动项目从 0 到 1 落地，注重技术实用性与业务结合。  
-🚀 近年来重点关注 AI 大模型（如 DeepSeek）在医疗问答、知识管理、诊疗辅助方面的应用实践。  
-👨‍👩‍👧 同时也是一位新手奶爸，努力在技术成长与家庭陪伴之间平衡发展。
+🏥 My core expertise lies in architecting and delivering **high-availability, scalable backend systems** that underpin complex medical workflows. I thrive on taking projects from initial concept to successful deployment, always prioritizing pragmatic technical solutions that directly address business needs within the healthcare domain.
 
----
+🧠 **Deeply intrigued by the potential of AI Large Models**, I'm actively exploring and implementing solutions leveraging technologies like DeepSeek and OpenAI for intelligent medical Q&A, streamlined knowledge management, and enhanced clinical decision support. This involves not just integration, but crafting innovative applications that truly augment healthcare professionals' capabilities.
 
-## 🔧 我的技术栈
-**后端：** Java / Spring Boot / Spring Cloud / MyBatis / MySQL / Redis / Kafka / RabbitMQ  
-**前端：** Vue3 / TypeScript / Element Plus / Electron / Vite  
-**DevOps：** Docker / Nginx / GitLab CI / Harbor / Prometheus / Grafana  
-**其他：** 大模型 API 对接（OpenAI / DeepSeek）/ ElasticSearch / 腾讯云 / 阿里云
+🛠️ **My Technical Arsenal:**
 
----
+* **Backend Powerhouse:** `Java` | `Spring Boot` | `Spring Cloud` | `MyBatis` | `MySQL` | `Redis` | `Kafka` | `RabbitMQ` - Proven ability to build resilient and performant microservices.
+* **Frontend Agility:** `Vue3` | `TypeScript` | `Element Plus` | `Electron` | `Vite` - Experienced in crafting intuitive user interfaces that integrate seamlessly with backend systems.
+* **DevOps Efficiency:** `Docker` | `Nginx` | `GitLab CI` | `Harbor` | `Prometheus` | `Grafana` - Committed to establishing robust CI/CD pipelines and monitoring solutions for reliable deployments.
+* **AI Integration Specialist:** Hands-on experience integrating and customizing Large Model APIs (OpenAI, DeepSeek) to solve real-world healthcare challenges.
+* **Data & Search:** `ElasticSearch`, with a focus on leveraging its capabilities for intelligent search and data analysis within medical contexts.
+* **Cloud Proficiency:** Experienced with both `Tencent Cloud` and `Alibaba Cloud` infrastructure and services.
 
-## 🧠 当前专注方向
-- 📚 构建公司内部知识平台，结合大模型实现开发文档与业务知识的智能问答
-- 👥 培养核心开发成员，建立技术规范，提升团队协作效率
+🔭 **Currently Pioneering:**
 
----
+* **Intelligent Knowledge Hub:** Architecting an internal knowledge platform powered by Large Language Models to provide instant, context-aware answers for development documentation and critical business insights.
+* **Empowering Engineering Excellence:** Mentoring core development team members, establishing and enforcing technical standards, and fostering a collaborative environment focused on high-quality deliverables.
 
+💬 Let's connect if you're passionate about the intersection of **robust backend architecture and cutting-edge AI in healthcare**, or if you're tackling challenges in **enterprise system modernization**. I'm always open to discussing innovative solutions and potential collaborations.
 
-## 📫 联系我
-- 📮 Email: pengpdx@gmail.com
-- 🧑‍💻 GitHub: [@pengdongxu](https://github.com/pengdongxu)
-- 📍 坐标：武汉
+📫 Reach out:
 
----
+* 📧 Email: pengpdx@gmail.com
+* <0xF0><0x9F><0xA7><0xAE> GitHub: @pengdongxu
+* 📍 Location: Wuhan, China
 
-> 热爱技术，也热爱生活。如果你也在做医疗、AI 应用、或企业系统改造方向，欢迎一起交流！
+Passionate about crafting elegant code and enjoying life's moments. Looking forward to connecting with fellow innovators!
