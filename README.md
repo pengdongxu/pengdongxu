@@ -1,29 +1,77 @@
-👋 Hi, I'm Peng Dongxu (@pengdongxu) - a **Java Architect specializing in mission-critical Internet Hospital platforms**. Based in Wuhan, China, I'm at the forefront of merging robust backend engineering with the transformative power of AI in healthcare.
+# 👋 Hi, I'm Peng Dongxu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🏥 My core expertise lies in architecting and delivering **high-availability, scalable backend systems** that underpin complex medical workflows. I thrive on taking projects from initial concept to successful deployment, always prioritizing pragmatic technical solutions that directly address business needs within the healthcare domain.
+**Full-Stack Developer | AI Enthusiast**
 
-🧠 **Deeply intrigued by the potential of AI Large Models**, I'm actively exploring and implementing solutions leveraging technologies like DeepSeek and OpenAI for intelligent medical Q&A, streamlined knowledge management, and enhanced clinical decision support. This involves not just integration, but crafting innovative applications that truly augment healthcare professionals' capabilities.
+Based in **Wuhan, China**, I specialize in building **comprehensive, scalable solutions** for **Internet Hospital platforms**, seamlessly integrating robust backend systems with intuitive frontend experiences, and exploring the transformative potential of **Artificial Intelligence** in healthcare.
 
-🛠️ **My Technical Arsenal:**
+---
 
-* **Backend Powerhouse:** `Java` | `Spring Boot` | `Spring Cloud` | `MyBatis` | `MySQL` | `Redis` | `Kafka` | `RabbitMQ` - Proven ability to build resilient and performant microservices.
-* **Frontend Agility:** `Vue3` | `TypeScript` | `Element Plus` | `Electron` | `Vite` - Experienced in crafting intuitive user interfaces that integrate seamlessly with backend systems.
-* **DevOps Efficiency:** `Docker` | `Nginx` | `GitLab CI` | `Harbor` | `Prometheus` | `Grafana` - Committed to establishing robust CI/CD pipelines and monitoring solutions for reliable deployments.
-* **AI Integration Specialist:** Hands-on experience integrating and customizing Large Model APIs (OpenAI, DeepSeek) to solve real-world healthcare challenges.
-* **Data & Search:** `ElasticSearch`, with a focus on leveraging its capabilities for intelligent search and data analysis within medical contexts.
-* **Cloud Proficiency:** Experienced with both `Tencent Cloud` and `Alibaba Cloud` infrastructure and services.
+## 🏥 Healthcare Innovation: From Backend to Frontend
 
-🔭 **Currently Pioneering:**
+I have expertise across the full development lifecycle. I design and deliver:
 
-* **Intelligent Knowledge Hub:** Architecting an internal knowledge platform powered by Large Language Models to provide instant, context-aware answers for development documentation and critical business insights.
-* **Empowering Engineering Excellence:** Mentoring core development team members, establishing and enforcing technical standards, and fostering a collaborative environment focused on high-quality deliverables.
+- **High-availability and scalable backend systems**  
+- **User-friendly and responsive frontend interfaces**
 
-💬 Let's connect if you're passionate about the intersection of **robust backend architecture and cutting-edge AI in healthcare**, or if you're tackling challenges in **enterprise system modernization**. I'm always open to discussing innovative solutions and potential collaborations.
+I'm passionate about solving complex healthcare challenges through **practical, innovative solutions** that prioritize real-world impact. From concept to deployment, I focus on creating systems that meet the unique needs of healthcare environments.
 
-📫 Reach out:
+---
 
-* 📧 Email: pengpdx@gmail.com
-* <0xF0><0x9F><0xA7><0xAE> GitHub: @pengdongxu
-* 📍 Location: Wuhan, China
+## 🧠 Leading the AI Frontier in Healthcare
 
-Passionate about crafting elegant code and enjoying life's moments. Looking forward to connecting with fellow innovators!
+I’m deeply fascinated by the potential of **AI Large Models**, and I am actively working with technologies like **DeepSeek** and **OpenAI** to revolutionize healthcare applications. My key focus areas include:
+
+- **Intelligent Medical Q&A**  
+- **Streamlined Knowledge Management**  
+- **Enhanced Clinical Decision Support**  
+
+My mission is to harness AI not just to automate tasks but to **empower healthcare professionals** and ultimately **improve patient outcomes** through intelligent, data-driven tools.
+
+---
+
+## 🛠️ My Technical Expertise
+
+### **Backend Development: Building Robust, Scalable Systems**  
+- **Languages**: Java, Kotlin, Python  
+- **Frameworks**: Spring Boot, Spring Cloud, MyBatis  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Caching & Message Queues**: Redis, Kafka, RabbitMQ  
+- **API & Microservices**: RESTful APIs, gRPC, GraphQL  
+- **Security**: OAuth2, JWT, SSL/TLS, Spring Security
+
+### **Frontend Development: Crafting Seamless User Experiences**  
+- **Languages & Frameworks**: Vue3, TypeScript, JavaScript  
+- **UI Libraries & Tools**: Element Plus, Vuetify, TailwindCSS  
+- **Tools**: Vite, Webpack, Babel  
+- **State Management**: Vuex, Pinia  
+- **Responsive Design**: CSS Grid, Flexbox
+
+### **DevOps & CI/CD: Ensuring Continuous Integration & Deployment**  
+- **Containerization**: Docker, Kubernetes  
+- **CI/CD Tools**: GitLab CI, Jenkins, GitHub Actions  
+- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack  
+- **Deployment & Orchestration**: Nginx, Traefik, Helm
+
+### **AI & Machine Learning: Innovating with Large Models**  
+- **Frameworks & Libraries**: TensorFlow, PyTorch, HuggingFace Transformers  
+- **Large Language Models**: OpenAI API, DeepSeek, GPT, BERT  
+- **NLP Applications**: Text Classification, Question Answering, Named Entity Recognition (NER)  
+- **Model Deployment**: FastAPI, Docker, TensorFlow Serving
+
+---
+
+## 💬 Let's Connect!
+
+If you’re passionate about building **full-stack solutions** in the **healthcare domain**, exploring the exciting possibilities of **AI integration**, or tackling challenges in **enterprise system modernization**, I’d love to connect and discuss ideas and potential collaborations.
+
+---
+
+## 📫 Reach Out
+
+[![Email](https://img.shields.io/badge/Email-pengpdx@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pengpdx@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-@pengdongxu-181717?style=flat-square&logo=github)](https://github.com/pengdongxu)  
+![Location](https://img.shields.io/badge/Location-Wuhan,%20China-007ACC?style=flat-square&logo=googlemaps&logoColor=white)
+
+---
+
+*Passionate about crafting elegant, user-centric solutions across the entire stack and transforming healthcare through technology. Looking forward to connecting with fellow innovators!*
